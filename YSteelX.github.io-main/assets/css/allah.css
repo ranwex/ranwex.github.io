@@ -1,0 +1,15 @@
+.altmetin{
+    position: fixed;
+    bottom: 5%;
+    right: 50%;
+    left: 50%;
+    width: 100%;
+    color: rgb(255, 255, 255);
+  }
+  a:link, a:visited {
+    color: white;
+    text-decoration: floralwhite;
+    cursor: pointer;
+    font-size: 20px;
+    font-style: italic;
+  }
