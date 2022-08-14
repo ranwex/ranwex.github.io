@@ -12,8 +12,8 @@ function openSocial(type) {
     case 'twitter':
       url = 'https://twitter.com/iNxsyy_';
       break;
-    case 'info':
-      url = 'https://ranwex.tk/about.html';
+    case 'spo':
+      url = 'https://open.spotify.com/user/31pw6f4iggwcvnffatkqygu5dfda?si=FMwgOpZpSSKG8xfrDSLGZQ&utm_source=copy-link';
       break;
   }
 
