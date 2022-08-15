@@ -26,7 +26,7 @@ function openSocial(type) {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['Sanal'];
+  let text = ['Business'];
 
   text.forEach(function (language, index) {
     typer.move(null);
