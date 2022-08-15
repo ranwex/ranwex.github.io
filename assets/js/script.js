@@ -15,6 +15,9 @@ function openSocial(type) {
     case 'spo':
       url = 'https://open.spotify.com/user/31pw6f4iggwcvnffatkqygu5dfda?si=FMwgOpZpSSKG8xfrDSLGZQ&utm_source=copy-link';
       break;
+      case 'hizmet':
+      url = 'https://ranwex.tk/about.html';
+      break;
   }
 
   window.open(url);
