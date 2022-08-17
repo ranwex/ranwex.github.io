@@ -72,7 +72,7 @@ body {
 
   .nav-text{
       font-size: 30px;
-      margin-left: 10px;
+      margin-left: 5px;
   }
 
   h1{display: inline-block;}
@@ -90,7 +90,7 @@ body {
       -o-transition: 0.5s;
 }
   a:hover{
-    color: var(--red);
+    color: var(--mavi);
     
     }
   .red{
